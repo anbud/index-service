@@ -1,0 +1,19 @@
+{
+  "name": "index-service",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bs58check": "^2.1.2",
+    "cors": "^2.8.5",
+    "deterministic-json": "^1.0.5",
+    "express": "^4.16.4",
+    "ioredis": "^4.3.0",
+    "tendermint": "^3.3.0"
+  }
+}
